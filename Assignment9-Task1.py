@@ -32,10 +32,10 @@ print("3- Differentiation")
 print("4- Division")
 choice = int(input("Choose operation:"))
 
-s1 = int(input("Enter s of f1:"))
-m1 = int(input("Enter m of f1:"))
-s2 = int(input("Enter s of f2:"))
-m2 = int(input("Enter m of f2:"))
+s1 = int(input("Enter s of fraction'1':"))
+m1 = int(input("Enter m of fraction'1':"))
+s2 = int(input("Enter s of fraction'2':"))
+m2 = int(input("Enter m of fraction'2':"))
 
 f1 = {'s':s1 , 'm':m1}
 f2 = {'s':s2, 'm':m2}
