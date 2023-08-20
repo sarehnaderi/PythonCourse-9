@@ -48,10 +48,10 @@ elif choice == 2:
     result_m = multiply(f1,f2)
     show(result_m)
     
-elif choice ==3:
+elif choice == 3:
     result_diff = differentiation(f1,f2)
     show(result_diff)
 
-elif choice ==4:
+elif choice == 4:
     result_div = division(f1,f2)
     show(result_div)
